@@ -144,6 +144,12 @@ ul {
   .header__title {
     width: 100%;
   }
+  .header__title h1 {
+    padding: 0;
+  }
+  .header__title p {
+    padding: 0;
+  }
   .testimonial {
     flex-direction: column;
     gap: 10px;
